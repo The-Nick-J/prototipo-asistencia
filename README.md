@@ -2,7 +2,7 @@ INF2237-1 — Ingeniería de Software
 
 ## Nuestro proyecto
 
-En varios colegios de Chile todavía se pasa asistencia a mano, en libros de papel los cuales se pueden perder. Por lo tanto, nosotros queremos proponer con este proyecto que estamos haciendo que la información guardada sobre la asistencia sea mucho más fácil de consultar y mucho más segura de guardar, sobre todo en colegios en zonas rurales. Entonces la idea es que se pueda registrar la asistencia de manera digital y poder consultarla desde distintos lugares de forma fácil.
+En varios colegios de Chile todavía se pasa asistencia a mano, en libros los cuales se pueden perder. Por lo tanto, nosotros queremos proponer con este proyecto que estamos haciendo que la información guardada sobre la asistencia sea mucho más fácil de consultar y mucho más segura de guardar, sobre todo en colegios en zonas rurales. Entonces la idea es que se pueda registrar la asistencia de manera digital y poder consultarla desde distintos lugares de forma fácil.
 
 ## Para quién
 
