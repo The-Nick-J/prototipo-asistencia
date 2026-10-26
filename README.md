@@ -20,3 +20,8 @@ Nicolás Jaramillo · Lucas Ahumada · Alessandro Reginato · Giulliano Martíne
 - GitHub para guardar y compartir los cambios.
 - GitHub Projects para organizarnos con las tareas.
 - Modelo de desarrollo en cascada.
+
+## Archivos de trabajo
+
+- [Prototipo en Figma](https://www.figma.com/design/plcL3y6vnaCxcsoaW96Fby)
+- [Informe del proyecto](https://docs.google.com/document/d/1PzCgfZOgpuUWsHrl7TPCHlRvTP9c1rtxhHrQV3MsW58/edit)
