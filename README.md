@@ -23,5 +23,5 @@ Nicolás Jaramillo · Lucas Ahumada · Alessandro Reginato · Giulliano Martíne
 
 ## Archivos de trabajo
 
-- [Prototipo en Figma](https://www.figma.com/design/plcL3y6vnaCxcsoaW96Fby)
-- [Informe del proyecto](https://docs.google.com/document/d/1PzCgfZOgpuUWsHrl7TPCHlRvTP9c1rtxhHrQV3MsW58/edit)
+- [Prototipo en Figma](https://www.figma.com/proto/plcL3y6vnaCxcsoaW96Fby/Prototipo-Asistencia-%E2%80%94-INF2237-1?node-id=43-37&starting-point-node-id=43%3A37&t=hDiQojdvwcacvbaT-1)
+- [Informe del proyecto](https://docs.google.com/document/d/1PzCgfZOgpuUWsHrl7TPCHlRvTP9c1rtxhHrQV3MsW58/edit?usp=sharing)
